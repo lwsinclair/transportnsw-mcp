@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/danhussey-transportnsw-mcp-badge.png)](https://mseep.ai/app/danhussey-transportnsw-mcp)
+
 # Transport NSW API Client (MCP Implementation)
 
 [![Tests](https://github.com/danhussey/transportnsw-mcp/actions/workflows/tests.yml/badge.svg)](https://github.com/danhussey/transportnsw-mcp/actions/workflows/tests.yml)
